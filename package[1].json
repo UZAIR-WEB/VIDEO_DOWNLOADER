@@ -1,0 +1,16 @@
+{
+  "name": "video-downloader",
+  "version": "2.0.0",
+  "description": "User-friendly YouTube, Facebook & Instagram Video Downloader by Muhammad Uzair",
+  "main": "api/download.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/download.js"
+  },
+  "author": "Muhammad Uzair",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
